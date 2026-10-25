@@ -1,0 +1,18 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Xiaoyuan contributors
+
+The artwork, animation, source artwork and documentation in this repository are licensed under CC BY 4.0.
+
+You may share and adapt these materials for any purpose, including commercially, under the terms of the license. You must give appropriate credit, provide a link to the license, and indicate if changes were made. Do not imply endorsement by the creator or depicted person.
+
+This notice is a summary and does not replace the full legal terms. The incorporated, controlling legal text is available at:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+License overview:
+https://creativecommons.org/licenses/by/4.0/
+
+Suggested attribution:
+Xiaoyuan / 小圆 — Xiaoyuan contributors, CC BY 4.0. Indicate any changes.
+
+SPDX-License-Identifier: CC-BY-4.0

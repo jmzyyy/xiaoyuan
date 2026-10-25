@@ -1,0 +1,20 @@
+{
+  "asset": "assets/xiaoyuan-spritesheet.png",
+  "sha256": "f7fededcc25cef647c5305c16646c7d525d3f6bcfc9397fbbe4bb608c21b2da7",
+  "encodedBytes": 2412818,
+  "dimensions": [
+    1536,
+    2288
+  ],
+  "requiredFrames": 73,
+  "structuralValidationPassed": true,
+  "qualityGatePassed": true,
+  "servicePreflightPassed": true,
+  "independentDirectionReviewPassed": true,
+  "jumpLiftPixels": 25,
+  "jumpLandingDeltaPixels": 0,
+  "notes": [
+    "The final up-left to up transition was a numerical continuity outlier and was accepted after visual review; no wrong direction or clipping was observed."
+  ],
+  "scope": "Results apply to the supplied final PNG bytes. Future modifications require renewed validation."
+}
